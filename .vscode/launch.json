@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Book_Programs/Object-Oriented-Programming-in-Cpp-Robert-Lafore/02_Cpp_Programming_Basics",
-      "program": "d:/Book_Programs/Object-Oriented-Programming-in-Cpp-Robert-Lafore/02_Cpp_Programming_Basics/build/Debug/outDebug",
+      "cwd": "d:/Book_Programs/Object-Oriented-Programming-in-Cpp-Robert-Lafore/04_Structures",
+      "program": "d:/Book_Programs/Object-Oriented-Programming-in-Cpp-Robert-Lafore/04_Structures/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
